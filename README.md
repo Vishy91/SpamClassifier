@@ -1,7 +1,8 @@
 # SpamClassifier
 Classify emails as Spam or not spam using decision tree and naive bayes 
+This is a group project and was part of the course Elements of AI
 
-** Program should accept command line arguments like this:
+* Program should accept command line arguments like this:
 ./spam mode technique dataset-directory model-file
 
 where mode is either test or train, technique is either bayes or dt, dataset-directory is a directory containing
